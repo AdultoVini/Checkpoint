@@ -23,5 +23,9 @@
     width: 100%;
 }
 #contserv{
-    width: 70%
+    width: 87%;
+    float: left;
+}
+#contcedro{
+    float: right;
 }
