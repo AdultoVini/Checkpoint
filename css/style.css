@@ -1,0 +1,24 @@
+#contcereja{
+    width: 89%;
+    float: left;
+}
+#cereja{
+    float: right
+}
+#folha{
+    float: left;
+}
+#contfolha{
+    float: left;
+    width: 89%;
+}
+#container{
+    width: 100%;
+}
+#team{
+    float: left;
+}
+#contteam{
+    float: left;
+    width: 100%;
+}
